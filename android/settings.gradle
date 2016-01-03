@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeScrollviewWarning'
+
+include ':app'
